@@ -1,0 +1,8 @@
+[[Geant4_julia]]
+arch = "x86_64"
+git-tree-sha1 = "d78943c186fa530e4d9fa8392d94a32a334537a7"
+os = "macos"
+
+    [[Geant4_julia.download]]
+    sha256 = "7badc3d7dedc8cf60c48b79f8c2e339bc68df09047cdbb9b3afe3790790b2771"
+    url = "https://github.com/peremato/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.1.0+0/Geant4_julia.v0.1.0.x86_64-apple-darwin.tar.gz"
