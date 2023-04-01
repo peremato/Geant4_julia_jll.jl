@@ -14,4 +14,4 @@ os = "macos"
 
     [[Geant4_julia.download]]
     sha256 = "a313a3b061daae868228786f1a57a24e72126b94ba008b1cf27b090841dee652"
-    url = "https://github.com/peremato/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.1.0+0/Geant4_julia.v0.1.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/peremato/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.1.1+0/Geant4_julia.v0.1.1.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
