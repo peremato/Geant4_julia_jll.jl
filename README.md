@@ -16,7 +16,7 @@ The tarballs for `Geant4_julia_jll.jl` have been built from these sources:
 
 `Geant4_julia_jll.jl` is available for the following platforms:
 
-* `macOS x86_64 {julia_version=1.8.0}` (`x86_64-apple-darwin-julia_version+1.8.0`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.8.0, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.8.0`)
 
 ## Dependencies
 

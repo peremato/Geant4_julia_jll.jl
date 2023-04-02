@@ -7,3 +7,14 @@ os = "macos"
     [[Geant4_julia.download]]
     sha256 = "a313a3b061daae868228786f1a57a24e72126b94ba008b1cf27b090841dee652"
     url = "https://github.com/peremato/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.1.1+0/Geant4_julia.v0.1.1.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+[[Geant4_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94e2be9aeb96002d2b0c84100d9346dceafb5382"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4_julia.download]]
+    sha256 = "60acf5f980d85582ffee7347d3ad5ed7a7aa96fa8e3af4b7785deed82bdcf9c7"
+    url = "https://github.com/peremato/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.1.1+0/Geant4_julia.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
